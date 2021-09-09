@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://github.com/isrealgda">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelgda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelgda&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" href= ""https://github-readme-stats.vercel.app/api?username=israelgda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"" src="https://github-readme-stats.vercel.app/api?username=israelgda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" href=""https://github-readme-stats.vercel.app/api/top-langs/?username=israelgda&layout=compact&langs_count=7&theme=github_dark"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelgda&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Israel-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
