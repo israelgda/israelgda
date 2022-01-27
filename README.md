@@ -4,8 +4,10 @@
 - 🌱 Aprendendo sobre frameworks Spring, React, Angular e linguagem **Java**, Typescript, JS ...
 - 🌱 ... teste automatizados, TDD, BDD, Ecossistema Spring e participando do Bootcamp Spring React da DevSuperior ;
 - 🎓 Graduando em Engenharia da Computação pela **UMJ** ;
-- 📚 Conhecimentos nas linguagens: **Java**, C++, TypeScript ;
-- 🔧 Conhecimentos nos frameworks: Spring Boot, Angular ;
+- 🔧 Experiência nas linguagens: **Java**;
+- 🔧 Experiência nos frameworks: Spring Boot;
+- 📚 Conhecimentos nas linguagens: C++, TypeScript ;
+- 📚 Conhecimentos nos frameworks: Angular ;
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=israelgda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" target="_blank">
