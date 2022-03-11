@@ -1,6 +1,6 @@
 ### Sobre
 
-- 🔭 Atualmente estagiando como Desenvolvedor de Software - **SEFAZ/AL** ;
+- 🔭 Atualmente Desenvolvedor Java Junior na **Objective Solutions** ;
 - 🌱 Aprendendo sobre frameworks Spring, React, Angular e linguagem **Java**, Typescript, JS ...
 - 🌱 ... teste automatizados, TDD, BDD, Ecossistema Spring e participando do Bootcamp Spring React da DevSuperior ;
 - 🎓 Graduando em Engenharia da Computação pela **UMJ** ;
