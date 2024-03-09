@@ -1,10 +1,10 @@
 ### Sobre
 
-- 🔭 Atualmente Desenvolvedor Java Junior na **Objective Solutions** ;
-- 🌱 Aprendendo sobre frameworks Spring, React, Angular e linguagem **Java**, Typescript, JS ...
-- 🌱 ... teste automatizados, TDD, BDD, Ecossistema Spring e participando do Bootcamp Spring React da DevSuperior ;
-- 🎓 Graduando em Engenharia da Computação pela **UMJ** ;
-- 🔧 Experiência nas linguagens: **Java**;
+- 🔭 Atualmente Desenvolvedor Java Junior II na **Objective Solutions** ;
+- 🌱 Aprendendo sobre frameworks Spring, Quarkus, e principais linguagens como **Java**, Kotlin, JS ...
+- 🌱 ... teste automatizados, TDD, BDD, Ecossistema Spring e mais;
+- 🎓 Graduado em Engenharia da Computação pela **UMJ** ;
+- 🔧 Experiência nas linguagens: **Java** e **Kotlin**;
 - 🔧 Experiência nos frameworks: Spring Boot;
 - 📚 Conhecimentos nas linguagens: C++, TypeScript ;
 - 📚 Conhecimentos nos frameworks: Angular ;
@@ -19,6 +19,7 @@
   <img align="center" alt="Israel-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="Israel-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Israel-Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Israel-Kotlin" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Israel-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Israel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Israel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
