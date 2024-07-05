@@ -17,7 +17,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Israel-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Israel-Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
+  <img align="center" alt="Israel-Quarkus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/quarkus/quarkus-original.svg">
   <img align="center" alt="Israel-Java" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Israel-Kotlin" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="Israel-TS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
