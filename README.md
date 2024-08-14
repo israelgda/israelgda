@@ -1,6 +1,6 @@
 ### Sobre
 
-- 🔭 Atualmente Desenvolvedor Java Junior II na **Objective Solutions** ;
+- 🔭 Atualmente Desenvolvedor Java Junior II na **Invillia** ;
 - 🌱 Aprendendo sobre frameworks Spring, Quarkus, e principais linguagens como **Java**, Kotlin, JS ...
 - 🌱 ... teste automatizados, TDD, BDD, Ecossistema Spring e mais;
 - 🎓 Graduado em Engenharia da Computação pela **UMJ** ;
