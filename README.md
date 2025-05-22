@@ -1,6 +1,6 @@
 ### Sobre
 
-- 🔭 Atualmente Desenvolvedor Java Pleno na **Invillia** ;
+- 🔭 Atualmente Engenheiro de Software na **Inyo.Global** ;
 - 🌱 Aprendendo sobre frameworks Spring, Quarkus, e principais linguagens como **Java**, **Kotlin**, JS ...
 - 🌱 ... teste automatizados, TDD, BDD, Ecossistema Spring e mais;
 - 🎓 Graduado em Engenharia da Computação pela **UMJ** ;
