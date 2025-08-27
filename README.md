@@ -5,9 +5,9 @@
 - 🌱 ... teste automatizados, TDD, BDD, Ecossistema Spring e mais;
 - 🎓 Graduado em Engenharia da Computação pela **UMJ** ;
 - 🔧 Experiência nas linguagens: **Java** e **Kotlin**;
-- 🔧 Experiência nos frameworks: Spring Boot;
+- 🔧 Experiência nos frameworks: **Spring Boot**;
+- 📚 Conhecimentos nos frameworks: Quarkus;
 - 📚 Conhecimentos nas linguagens: C++, TypeScript ;
-- 📚 Conhecimentos nos frameworks: Angular ;
 
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=israelgda&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" target="_blank">
